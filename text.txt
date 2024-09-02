@@ -1,0 +1,14 @@
+Atoms
+text, icon, button, image, progress bar
+
+Molecules
+course card, planning item, statistics box
+
+Organisms
+sidebar, course list, planning list, statistics overview, activity graph
+
+Template
+Dashboard layout
+
+Page
+Dashboard page

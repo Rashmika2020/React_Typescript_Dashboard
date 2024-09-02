@@ -1,0 +1,45 @@
+    .planning-card-topic {
+    font-size: 16px; 
+    font-weight: bold;
+    color: #333; 
+    margin-bottom: 5px; 
+  }
+  
+  .planning-card-time {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .planning-list {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .planning-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px; 
+  }
+  
+  .planning-heading h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000; 
+  }
+  
+  .planning-heading p {
+    font-size: 16px;
+    color: #369FFF;
+    cursor: pointer;
+    position: absolute;
+    top: 425px;
+    left: 418px;
+  }
+  
+  .planning-list-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 15px; 
+  }
+  

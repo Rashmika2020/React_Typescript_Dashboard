@@ -1,0 +1,35 @@
+.upgrade-card{
+    background-color: #369eff29;
+    width: 168px;
+    height: 106px;
+    border-radius: 18px;
+    border: 1px;
+    position: absolute;
+    top: 780px;
+}
+
+.upgrade-card p{
+    top: 898px;
+    left: 55px;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.upgrade-card h5{
+    color: #369FFF;
+    top: 918px;
+    line-height: 23px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+.upgrade-card img{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 787px;
+    left: 135px;
+}

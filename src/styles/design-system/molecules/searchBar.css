@@ -1,0 +1,24 @@
+.search-box{
+    display: flex;
+    gap: 25px;
+}
+
+.search-box h4{
+    color: #BDBDBD;
+    font-size: 20px;
+}
+
+.search-box img{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+.search-box input {
+    width: 100%;
+    max-width: 600px;
+    padding: 11px;
+    border:none;
+    font-size: 18px;
+    outline: none;
+  }

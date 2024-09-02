@@ -1,0 +1,19 @@
+.statistic-card {
+    width: 150px;
+    height: 150px;
+    background-color:rgba(89, 130, 213, 0.26);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.statistic-card h4{
+    color: rgb(142, 140, 144);
+}
+
+.statistic-card h1{
+   font-weight: bolder; 
+   width: 50px;
+   height: 55px;
+   top: 476px;
+   left: 1113px;
+}

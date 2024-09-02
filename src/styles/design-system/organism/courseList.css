@@ -1,0 +1,74 @@
+.course-list {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .course-list h3{
+    color: #369FFF;
+  }
+  
+  .course-list-heading {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .course-list-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .course-card {
+    display: flex;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .course-list-heading h2, .course-list-heading p {
+    margin: 0;
+  }
+  
+  .course-list-heading p {
+    font-size: 16px;
+    color: #369FFF;
+    position: absolute;
+    top: 66px;
+    left: 468px;
+    cursor: pointer;
+  }
+  
+  .progress-circle {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .course-card-blue {
+    background-color: #5bc0de; /* Blue */
+  }
+  
+  .course-card-orange {
+    background-color: #f0ad4e; /* Orange */
+  }
+  
+  .course-card-green {
+    background-color: #5cb85c; /* Green */
+  }
+  
+  .course-card-yellow {
+    background-color: #ffd700; /* Yellow */
+  }

@@ -1,0 +1,17 @@
+@import url('./utilities/normalize.css');
+@import url('./utilities/global.css');
+
+@import url('./design-system/molecules/courseCard.css');
+@import url('./design-system/molecules/planningCard.css');
+@import url('./design-system/molecules/statisticCard.css');
+@import url('./design-system/molecules/activityGraph.css');
+@import url('./design-system/molecules/searchBar.css');
+@import url('./design-system/molecules/upgrade.css');
+
+@import url('./design-system/organism/sideBar.css');
+@import url('./design-system/organism/courseList.css');
+@import url('./design-system/organism/planningList.css');
+@import url('./design-system/organism/statisticList.css');
+
+
+@import url('./design-system/templates/dashboardTemplates.css');

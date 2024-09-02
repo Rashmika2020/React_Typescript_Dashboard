@@ -1,0 +1,53 @@
+  .statistic-card {
+    width: 150px;
+    height: 100px;
+    background-color: rgba(89, 130, 213, 0.1);
+    border-radius: 15px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .statistic-card h4 {
+    color: rgb(142, 140, 144);
+    margin-bottom: 5px;
+    font-size: 14px; 
+  }
+  
+  .statistic-card h1 {
+    font-weight: bold; 
+    color: #175BEE; 
+    font-size: 30px; 
+    margin-left: 100px;
+  }
+  
+  .statistic-list {
+    background-color: #ffffff;
+    padding: 20px;
+    height: 100%;
+  }
+  
+  .stat-list-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    align-items: center;
+    justify-items: center; 
+  }
+  
+  .activity-heading {
+    margin-top: 150px; 
+    color: #000; 
+    text-align: left; 
+  }
+  
+  .activity-graph {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 200px; 
+  }
+  
